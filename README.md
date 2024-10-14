@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there I'm Najwa Areefa Ghaisani👋
 
 # 💫 About Me:
 My name is Najwa Areefa Ghaisani, I'm 18 years old<br>I'm Student at Telkom University, Purwokerto Campus<br>I'm currently learning java
