@@ -6,6 +6,8 @@ My name is Najwa Areefa Ghaisani, I'm 18 years old<br>I'm Student at Telkom Univ
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@najwarre) 
+[![linkedin](https://www.linkedin.com/in/najwa-areefa-242a0b296/)
+
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
