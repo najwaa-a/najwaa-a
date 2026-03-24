@@ -1,8 +1,6 @@
 ## Hi there I'm Najwa 👋
 
 👩🏻‍🎓 Studied Software Engineering at the Telkom University, Purwokerto<br/>
-🎨 Making videos about Computer Science, tech, and productivity on [YouTube](https://www.youtube.com/c/MagdelineHuang)<br/>
-#learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 💭 Currently learning java<br/>
 
 
